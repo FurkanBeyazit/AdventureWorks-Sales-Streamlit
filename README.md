@@ -34,12 +34,12 @@ The code for the project is available on GitHub, along with screenshots demonstr
 <br>![연구 포스타2](./adv1.png)
 <br>
  
-3. **Customers:** Line chart showing sales trends over time. (시간 경과에 따른 판매 동향을 보여주는 라인 차트)
+2. **Customers:** Line chart showing sales trends over time. (시간 경과에 따른 판매 동향을 보여주는 라인 차트)
 <br>![연구 포스타2](./adv2.png)
 
-5. <br>![연구 포스타2](./adv3.png)
-6. **Depth Analysis:** 
-7. <br>![연구 포스타2](./adv4.png)
+<br>![연구 포스타2](./adv3.png)
+3. **Depth Analysis:** 
+ <br>![연구 포스타2](./adv4.png)
 
 ---
 
