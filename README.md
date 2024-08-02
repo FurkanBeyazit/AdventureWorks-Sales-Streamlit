@@ -30,10 +30,16 @@ The Streamlit application allows users to explore the sales data interactively. 
 
 The code for the project is available on GitHub, along with screenshots demonstrating the application in action. (프로젝트의 코드는 GitHub에서 사용할 수 있으며, 애플리케이션 실행 모습을 보여주는 스크린샷도 포함되어 있습니다.)
 
-1. **Main Dashboard:** Overview of the key metrics and filters. (주요 메트릭 및 필터 개요)
-2. **Sales Trends:** Line chart showing sales trends over time. (시간 경과에 따른 판매 동향을 보여주는 라인 차트)
-3. **Product Performance:** Bar chart illustrating the performance of different products. (다양한 제품의 성과를 나타내는 바 차트)
-4. **Geographic Distribution:** Pie chart depicting sales distribution by region. (지역별 판매 분포를 보여주는 원형 차트)
+1. **Sales Dashboard:** Overview of the key metrics and filters. (주요 메트릭 및 필터 개요)
+<br>![연구 포스타2](./adv1.png)
+<br>
+ 
+3. **Customers:** Line chart showing sales trends over time. (시간 경과에 따른 판매 동향을 보여주는 라인 차트)
+<br>![연구 포스타2](./adv2.png)
+
+5. <br>![연구 포스타2](./adv3.png)
+6. **Depth Analysis:** 
+7. <br>![연구 포스타2](./adv4.png)
 
 ---
 
